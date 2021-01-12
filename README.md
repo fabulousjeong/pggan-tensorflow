@@ -9,7 +9,7 @@ Please refer to the article which presents the details about algorithm and code.
     tensorflow 2.3
     matplotlib
 
-Usage
+## Usage
 
 First,download celeba HQ dataset. 
 
@@ -18,7 +18,7 @@ You can download from the author's repository https://github.com/tkarras/progres
 Or you can use CelebA-HQ MASK dataset on https://github.com/switchablenorms/CelebAMask-HQ 
 
 Second, 
-Set the proper DATA_ROOT on train.py file. 
+Set the proper **DATA_ROOT** on train.py file. 
 
 And run "train.py"
 
