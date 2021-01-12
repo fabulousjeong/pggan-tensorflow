@@ -26,7 +26,7 @@ The model will be trained for growing by 256x256 resolution.
 
 It took for about 3-days on a Gerforce 1080TI Graphic Card. 
 
-$ python train.py
+` python train.py
 
 Each level look 800k sample and then move to next level. 
 
