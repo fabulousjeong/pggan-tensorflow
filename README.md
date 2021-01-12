@@ -35,3 +35,10 @@ Save sample results in samples folder. Each level, save checkpoint(ckpt) in "ckp
 Results
 
 ![interpolate_256](./figures/celebHQ_interpolate.gif)
+
+
+## Acknowledges
+
+TKarras's repository, https://github.com/tkarras/progressive_growing_of_gans
+
+Keras WGAN-GP Example, https://keras.io/examples/generative/wgan_gp/ 
