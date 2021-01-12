@@ -22,15 +22,16 @@ Set the proper DATA_ROOT on train.py file.
 
 And run "train.py"
 
-The model will be trained for growing by 256x256 resolution. 
+The model will be trained for growing by **256x256** resolution. 
 
 It took for about 3-days on a Gerforce 1080TI Graphic Card. 
 
-` python train.py
+`python train.py`
 
 Each level look 800k sample and then move to next level. 
 
 Save sample results in samples folder. Each level, save checkpoint(ckpt) in "ckpts" folder
 
 Results
+
 ![interpolate_256](./figures/celebHQ_interpolate.gif)
