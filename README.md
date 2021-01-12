@@ -18,7 +18,7 @@ You can download from the author's repository https://github.com/tkarras/progres
 Or you can use CelebA-HQ MASK dataset on https://github.com/switchablenorms/CelebAMask-HQ 
 
 Second, 
-Set the proper **DATA_ROOT** on train.py file. 
+Set the proper path to define **DATA_ROOT** on train.py file. 
 
 And run "train.py"
 
