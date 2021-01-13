@@ -1,6 +1,6 @@
 # pggan-tensorflow
 Tensorflow implementation of "[Progressive Growing of GAN](https://arxiv.org/abs/1710.10196)".
-Please refer to the article which presents the details about algorithm and code. 
+Please refer to the paper which presents the details about algorithm. 
 
 For more information on the code, please refer to the following **[Medium Story Link](https://fabulousjeong.medium.com/tensorflow2-0-pggan-progressive-growing-of-gans-for-improved-quality-stability-and-variation-67a474b39356)**
 
