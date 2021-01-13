@@ -13,16 +13,23 @@ For more information on the code, please refer to the following **[Medium Story 
 
 ## Usage
 
-First,download celeba HQ dataset. 
+**1.**
+
+download celeba HQ dataset. 
 
 You can download from the author's repository https://github.com/tkarras/progressive_growing_of_gans.
 
 Or you can use CelebA-HQ MASK dataset on https://github.com/switchablenorms/CelebAMask-HQ 
 
-Second, 
+
+**2.** 
+
 Set the proper path to define the **DATA_ROOT** on train.py file. 
 
-And run "train.py"
+
+**3.**
+
+run "train.py"
 
 The model will be trained for growing by **256x256** resolution. 
 
@@ -34,7 +41,8 @@ Each level look 800k sample and then move to next level.
 
 Save sample results in samples folder. Each level, save checkpoint(ckpt) in "ckpts" folder
 
-Results
+
+## Results
 
 ![interpolate_256](./figures/celebHQ_interpolate.gif)
 
