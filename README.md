@@ -2,7 +2,7 @@
 Tensorflow implementation of "Progressive Growing of GAN".
 Please refer to the article which presents the details about algorithm and code. 
 
-For more information on the code, please refer to the following [Medium Story Link](https://fabulousjeong.medium.com/tensorflow2-0-pggan-progressive-growing-of-gans-for-improved-quality-stability-and-variation-67a474b39356)
+For more information on the code, please refer to the following **[Medium Story Link](https://fabulousjeong.medium.com/tensorflow2-0-pggan-progressive-growing-of-gans-for-improved-quality-stability-and-variation-67a474b39356)**
 
 
 ## Prerequisites
